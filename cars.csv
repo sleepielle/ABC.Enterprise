@@ -1,0 +1,101 @@
+id,make,model,year,branch_id
+901-mm-29,Mercury,Grand Marquis,1991,1
+998-wb-31,Mitsubishi,Chariot,1996,2
+036-bj-19,Mitsubishi,Excel,1987,3
+965-to-18,Hyundai,Tiburon,1997,4
+397-wa-89,Volkswagen,Cabriolet,1987,5
+567-du-93,Daewoo,Lanos,2002,6
+906-ck-23,Oldsmobile,88,1996,7
+090-nw-76,Toyota,FJ Cruiser,2009,8
+525-jl-03,Geo,Metro,1997,9
+629-qp-07,Plymouth,Fury,1964,10
+363-qb-15,Honda,Element,2008,11
+133-uu-88,Acura,Integra,1992,12
+944-er-52,GMC,Sierra 2500,2004,13
+765-ut-36,Ford,Contour,1998,14
+099-fq-73,BMW,6 Series,2005,15
+824-ps-33,Nissan,Xterra,2005,16
+926-hr-35,GMC,1500,1992,17
+855-bd-51,Honda,Accord,2007,18
+045-ph-09,GMC,Sierra,2008,19
+511-ex-46,Lincoln,Navigator L,2008,20
+777-lf-61,Chevrolet,Caprice,1983,21
+222-hc-25,Mitsubishi,Expo,1994,22
+810-mn-42,Chevrolet,TrailBlazer,2003,23
+781-kt-18,GMC,Yukon XL 1500,2013,24
+101-ej-04,Volvo,S70,2000,25
+622-er-98,Bentley,Azure,2007,26
+454-lt-36,Ford,Crown Victoria,1997,27
+945-um-59,Hyundai,Scoupe,1993,28
+836-hn-74,Mitsubishi,Eclipse,2005,29
+889-gt-16,Dodge,Caravan,1998,30
+853-mb-23,GMC,Envoy,2006,31
+118-ze-46,Lincoln,MKS,2009,32
+123-hg-47,Pontiac,Grand Prix,1974,33
+062-rg-14,Honda,CR-V,2006,34
+358-xy-38,Toyota,Land Cruiser,2005,35
+128-wq-95,GMC,Savana 1500,2003,36
+578-hu-83,Jeep,Cherokee,1994,37
+247-ol-50,GMC,Savana 3500,1996,38
+687-yv-37,Isuzu,Trooper,1993,39
+817-da-72,GMC,Yukon Denali,2006,40
+894-yt-85,Infiniti,G,2005,41
+813-zj-22,Nissan,Quest,2004,42
+158-mo-45,GMC,Vandura 1500,1992,43
+897-xm-80,Ford,Club Wagon,1998,44
+503-jx-09,Lotus,Esprit,1995,45
+308-zj-02,Lincoln,Navigator,2001,46
+181-cz-60,Jeep,Wrangler,1997,47
+494-ou-21,Maybach,62,2007,48
+256-ot-56,Volkswagen,CC,2010,49
+455-lm-00,Pontiac,LeMans,1991,50
+983-ti-53,Renault,Alliance,1983,51
+401-xi-19,Ford,Mustang,1987,52
+984-kp-26,Lexus,IS F,2009,53
+950-fu-69,Ford,Ranger,2008,54
+083-ew-66,Toyota,T100,1997,55
+265-dm-98,Chevrolet,S10 Blazer,1992,56
+273-nn-05,Toyota,Matrix,2007,57
+972-pv-22,Mercedes-Benz,SL-Class,1994,58
+735-zj-44,BMW,745,2004,59
+016-qs-39,Ford,Bronco,1986,60
+866-yi-23,Lincoln,Navigator,2002,61
+140-pp-25,GMC,1500,1996,62
+978-oe-04,Chevrolet,SSR,2004,63
+598-of-73,Pontiac,Sunfire,2004,64
+923-ve-34,Saab,900,1987,65
+233-yd-98,Lotus,Esprit,2001,66
+894-yk-07,Volkswagen,Passat,1999,67
+277-cg-82,Ford,F-Series,2004,68
+111-gy-51,Mazda,MX-5,1996,69
+631-oc-14,Ford,Thunderbird,2006,70
+278-vi-52,Ford,F250,1993,71
+384-qs-23,Chevrolet,Impala SS,1995,72
+845-wh-50,Honda,Fit,2009,73
+991-cz-26,Mitsubishi,Diamante,2004,74
+523-ne-81,Nissan,Pathfinder,2006,75
+910-sq-26,Volkswagen,Jetta III,1993,76
+697-tc-37,Plymouth,Laser,1994,77
+328-tg-34,Saab,9-7X,2009,78
+740-hk-58,Lamborghini,MurciÃ©lago,2003,79
+169-hu-42,Subaru,Tribeca,2007,80
+698-wl-51,Jeep,Wrangler,1992,81
+511-gw-39,Acura,TL,1996,82
+633-xo-93,Buick,Century,2002,83
+410-oz-10,BMW,Z3,1999,84
+277-gn-12,Lexus,IS-F,2009,85
+836-wp-64,BMW,5 Series,2009,86
+528-ql-33,Nissan,Pathfinder,1996,87
+795-db-44,Isuzu,Hombre,1997,88
+234-xh-86,Dodge,Sprinter,2006,89
+256-el-49,GMC,Vandura 1500,1994,90
+988-vf-32,Hyundai,XG350,2004,91
+798-lw-53,Mercedes-Benz,SLS AMG,2012,92
+756-bz-34,Chrysler,Crossfire Roadster,2006,93
+929-ie-55,Audi,Q7,2011,94
+887-dl-15,Nissan,Sentra,2006,95
+637-dv-64,Pontiac,Grand Prix,1970,96
+755-eg-83,Audi,200,1990,97
+548-ui-94,Porsche,968,1994,98
+535-uy-85,Isuzu,Hombre,1999,99
+366-zp-03,Honda,Ridgeline,2012,100
