@@ -3,7 +3,7 @@ import {employees}  from '../db.js';
 import amqp from "amqplib";
 var gEmployees={};
 
-
+/*
 async function sendToRabbitMQ( message) {
 
     try {
@@ -61,6 +61,7 @@ async function sendToRabbitMQ( message) {
     }
       
   }
+*/
 
 
   export const getEmployeesByUsername = async (req, res)=> {
@@ -71,18 +72,6 @@ async function sendToRabbitMQ( message) {
     console.table(gEmployees);
   
 }
-/*export const getEmployeesByUsername = async (req, res)=> {
-   
-    const [gEmployees] = await employees.query(`SELECT username,first_name, last_name, ID FROM employees WHERE username = ?`, [req.params.username] );
-     res.json(gEmployees);
-
-
-     var message=JSON.stringify(gEmployees[0], null, 4)
-    console.table(gEmployees);
-    await sendToRabbitMQ(message);
-}*/
-
-
 
 
   export {gEmployees};
